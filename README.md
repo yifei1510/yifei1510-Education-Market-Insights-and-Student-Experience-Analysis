@@ -75,13 +75,15 @@ The final step translated the findings into practical recommendations for strate
 The following visuals were created to make the analysis easier to understand for non-technical stakeholders and to support strategic discussion around student experience, retention risk and growth opportunities.
 
 ### KPI Summary
-![Student Experience KPI Summary](images/kpi_summary.png)
+<img width="1584" height="753" alt="kpi_summary" src="https://github.com/user-attachments/assets/ed375761-5672-46dd-b90c-30c0f11440ef" />
+
 
 ### Course Satisfaction Performance
 ![Average Overall Satisfaction by Course Area](images/course_satisfaction.png)
 
 ### At-Risk Student Segments by Course Area
-![At-Risk Student Rate by Course Area](images/course_at_risk_rate.png)
+<img width="1571" height="937" alt="course_satisfaction" src="https://github.com/user-attachments/assets/7dc3042f-5f42-4c61-ad1b-a6c2cdfef47c" />
+
 
 ### Main Student Barriers
 ![Main Barriers Reported by Students](images/main_barriers.png)
